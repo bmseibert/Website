@@ -1,3 +1,8 @@
+h1 {
+align-content: center;
+font: 48;    
+}
+
 body {
 background-image: url("day5-59.jpg"); 
 background-color: #01FEED;    
