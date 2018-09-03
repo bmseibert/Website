@@ -2,7 +2,7 @@ h1 {
 vertical-align: middle;     
 text-align: center; 
 font-family: "Times New Roman", Times, serif;    
-font-size: 150px;
+font-size: 175px;
 }
 
 body {
@@ -12,9 +12,8 @@ background-color: #01FEED;
 
 /* Add a black background color to the top navigation */
 .topnav {
-    /*background-color: #333;
-    overflow: hidden;*/
-    opacity: 0.5;
+    /*background-color: #333;*/
+    opacity: 0.25;
 }
 
 /* Style the links inside the navigation bar */
