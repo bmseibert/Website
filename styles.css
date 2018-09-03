@@ -7,6 +7,15 @@ h1 {
     font-size: 175px;
 }
 
+h2 {
+    color: white;
+    vertical-align: middle; 
+    align-items: left;
+    text-align: left; 
+    font-family: "Times New Roman", Times, serif;    
+    font-size: 100px;
+}
+
 body {
     background-image: url("closeupnature.jpg"); 
     background-color: #01FEED;    
