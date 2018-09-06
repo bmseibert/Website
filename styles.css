@@ -4,7 +4,7 @@ h1 {
     align-items: center;
     text-align: center; 
     font-family: "Times New Roman", Times, serif;    
-    font-size: 175px;
+    font-size: 150px;
 }
 
 h2 {
@@ -22,13 +22,18 @@ h3 {
 }
 
 body {
-    background-image: url("closeupnature.jpg"); 
+    /*background-image: url("closeupnature.jpg");*/ 
     background-color: #01FEED;    
+}
+
+
+.mainpageinfo {
+
 }
 
 /* Add a black background color to the top navigation */
 .topnav {
-    /*background-color: #333;*/
+    background-image: url("media/TopBarImage.jpg");
     overflow: hidden;
     opacity: 0.85;
 }
