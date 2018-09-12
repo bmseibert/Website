@@ -33,6 +33,7 @@ p {
 }
 .mainpageheader {
    background-image: url("media/day5-1.jpg"); 
+   background-size: cover; 
    padding: 0px;
 }
 
