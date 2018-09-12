@@ -22,8 +22,8 @@ h3 {
 }
 
 body {
-    /*background-image: url("closeupnature.jpg");*/ 
-    background-color: hsla(240, 80%, 42%, 1);    
+    background-image: url("day5-1.jpg"); 
+    background-color: hsla(240, 100%, 42%, 1);    
 }
 
 p {
@@ -35,11 +35,11 @@ p {
 
 
 .mainpageinfo {
-    background-color: hsla(224, 100%, 24%, 1); 
+    background-color: hsla(210, 100%, 50%, 1); 
     color: white;
     text-align:center;
     font-family: "Times New Roman", Times, serif;    
-    font-size: 48px;
+    font-size: 36px;
     padding: 10px 5px;
 }
 
