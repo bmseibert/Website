@@ -23,7 +23,7 @@ h3 {
 
 body {
     /*background-image: url("closeupnature.jpg");*/ 
-    background-color: hsla(240, 100%, 42%, 1);    
+    background-color: hsla(240, 80%, 42%, 1);    
 }
 
 p {
@@ -36,7 +36,7 @@ p {
 
 .mainpageinfo {
     background-color: hsla(224, 100%, 24%, 1); 
-    text-color: white;
+    color: white;
     text-align:center;
     font-family: "Times New Roman", Times, serif;    
     font-size: 48px;
