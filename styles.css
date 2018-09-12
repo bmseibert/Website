@@ -1,5 +1,4 @@
 h1 {
-    background-image: url("media/day5-1.jpg"); 
     color: white;
     vertical-align: middle; 
     align-items: center;
@@ -32,7 +31,10 @@ p {
     font-family: "Times New Roman", Times, serif;    
     font-size: 48px;
 }
-
+.mainpageheader {
+   background-image: url("media/day5-1.jpg"); 
+   padding: 0px;
+}
 
 .mainpageinfo {
     background-color: hsla(210, 100%, 50%, 1); 
