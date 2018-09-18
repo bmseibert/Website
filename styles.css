@@ -37,8 +37,9 @@ p {
     font-family: "Times New Roman", Times, serif;    
     font-size: 48px;
 }
-.mainpageheader { 
-
+.headphoto { 
+    display: flex;
+    object-fit: fill;
 }
 
 .mainpageinfo {
