@@ -6,7 +6,10 @@ h1 {
     font-family: "Times New Roman", Times, serif;    
     font-size: 150px;
     opacity: 60%;
+    height: 892px;
+    width:346px;
     background-image: url("media/day5-1.jpg");
+    background-repeat: no-repeat;
     background-size: 892px 346px; 
     padding: 10px;
 }
