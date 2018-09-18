@@ -37,11 +37,6 @@ p {
     font-family: "Times New Roman", Times, serif;    
     font-size: 48px;
 }
-.headphoto { 
-    display: flex;
-    object-fit: fill;
-    
-}
 
 .mainpageinfo {
     background-color: hsla(210, 100%, 50%, 1); 
