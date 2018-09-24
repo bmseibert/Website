@@ -7,7 +7,7 @@ h1 {
     font-size: 150px;
     opacity: 60%;
     background-image: url("media/day5-1.jpg");
-    object-fit: contain;
+    background-size: contain;
     background-repeat: no-repeat;
     padding: 10px;
 }
