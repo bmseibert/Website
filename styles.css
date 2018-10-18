@@ -23,9 +23,8 @@ h3 {
 }
 
 body {
-    /*background-image: url("media/day5-1.jpg");
+    /*background-image: url("media/day5-1.jpg");*/
     background-size: cover; 
-    background-color: hsla(240, 100%, 42%, 1); */
     background: linear-gradient(to bottom, #99ffcc 0%, #009900 100%);
 }
 
