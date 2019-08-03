@@ -4,28 +4,38 @@ h1 {
     justify-content: center;
     align-items: center;
     font-family: "Times New Roman", Times, serif;    
-    font-size: 150px;
+    font-size: 100px;
     opacity: 60%;
 }
 
 h2 {
     color: white;
-    text-align: left; 
-    font-family: "Times New Roman", Times, serif;    
-    font-size: 100px;
-}
-
-h3 {
-    color:white;
-    text-align: left;
+    text-align: center; 
     font-family: "Times New Roman", Times, serif;    
     font-size: 70px;
 }
 
+h3 {
+    color: #ddd;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;    
+    font-size: 40px;
+}
+
+h4 {
+    color:white;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;    
+    font-size: 24px;
+}
+
 body {
     /*background-image: url("media/day5-1.jpg");*/
-    background-size: cover; 
-    background: linear-gradient(to bottom, #99ffcc 0%, #009900 100%);
+    /* background-size: auto;  */
+    /* background: no-repeat; */
+    /* background: linear-gradient(to bottom, #022b68 0%, #000000 100%); */
+    /* background-color: darkturquoise; */
+    background-color: slategrey;
 }
 
 p {
@@ -35,25 +45,34 @@ p {
     font-size: 48px;
 }
 
-.mainpageinfo {
-    background-color: hsla(210, 100%, 50%, 1); 
-    color: white;
-    text-align:center;
-    font-family: "Times New Roman", Times, serif;    
-    font-size: 36px;
-    padding: 10px 5px;
-}
-
 /* Add a black background color to the top navigation */
 .topnav {
-    background-image: url("media/TopBarImage.jpg");
+    /* background-image: url("media/TopBarImage.jpg"); */
     overflow: hidden;
+    position: sticky;
+    top: 0;
+    text-align: center;
+    padding: 10px 15px;
     opacity: 0.85;
+}
+
+topnav_text {
+    color: #f2f2f2;
+    padding-top: 100px;
+    padding: 14px 24px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.mainpageimage {
+    /* align-content: center; */
+    text-align: center;
+    
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-    float: left;
+    float: center;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
@@ -69,6 +88,6 @@ p {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #4CAF50;
+    /* background-color: #4CAF50;  */
     color: white;
 }
