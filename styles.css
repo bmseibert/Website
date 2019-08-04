@@ -47,9 +47,8 @@ p {
 
 /* Add a black background color to the top navigation */
 .topnav {
-    /* background-image: url("media/TopBarImage.jpg"); */
     overflow: hidden;
-    position: sticky;
+    position: relative;
     top: 0;
     text-align: center;
     padding: 10px 15px;
@@ -57,8 +56,9 @@ p {
 }
 
 .aboutme {
-    /* align-content: center; */
+    align-content: center;
     float: center;
+    text-align: center;
     color: #f2f2f2;
     padding: 0 20px 20px 0;
     font-size: 16px;
@@ -66,20 +66,24 @@ p {
 }
 
 .aboutme img {
-    float: left; 
+    /* float: left;  */
+    float: center;
+    text-align: center;
     width: 350px;
     margin: 30px 30px 30px 0;
 }
 
 .aboutme text {
+    float: center;
     /* display: inline; */
-    float: left;
+    /* float: left; */
     /* margin: 30px 30px 30px 0; */
     /* padding: 30px 30px; */
 }
 
 .video {
     float: center;
+    text-align: center;
 }
 
 /* Style the links inside the navigation bar */
