@@ -78,6 +78,10 @@ p {
     /* padding: 30px 30px; */
 }
 
+.video {
+    float: center;
+}
+
 /* Style the links inside the navigation bar */
 .topnav a {
     float: center;
